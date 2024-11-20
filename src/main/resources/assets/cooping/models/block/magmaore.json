@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cooping:blocks/magma_ore",
+    "up": "cooping:blocks/magma_ore",
+    "north": "cooping:blocks/magma_ore",
+    "east": "cooping:blocks/magma_ore",
+    "south": "cooping:blocks/magma_ore",
+    "west": "cooping:blocks/magma_ore",
+    "particle": "cooping:blocks/magma_ore"
+  }
+}
